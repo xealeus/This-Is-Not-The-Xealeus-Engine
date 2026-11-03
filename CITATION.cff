@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software or its results, please cite a fixed release of This Is Not The Xealeus Engine."
+title: "This Is Not The Xealeus Engine"
+type: software
+authors:
+  - family-names: "Xealeus"
+version: "1.0.0"
+date-released: 2026-11-02
+license: MIT
+repository-code: "https://github.com/xealeus/This-Is-Not-The-Xealeus-Engine"
+url: "https://github.com/xealeus/This-Is-Not-The-Xealeus-Engine"
+abstract: >-
+  A guided graphical companion to the Xealeus Voynich computational experiments,
+  demonstrating parser checks, Prefix/Core/Suffix coupling, Currier A/B transfer,
+  local state-machine compilers, cross-word dependencies, and a simple 2D geometry
+  probe using bundled project-derived aggregate data or an independently supplied
+  compatible IVTFF source corpus.
+keywords:
+  - "Voynich Manuscript"
+  - "computational analysis"
+  - "statistical modelling"
+  - "state machine"
+  - "EVA"
+  - "Currier A"
+  - "Currier B"
+  - "reproducible research"

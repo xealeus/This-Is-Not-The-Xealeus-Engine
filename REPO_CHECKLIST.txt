@@ -1,0 +1,35 @@
+THIS IS NOT THE XEALEUS ENGINE — FINAL REPO CHECKLIST
+
+ROOT FILES:
+[ ] README.md
+[ ] LICENSE
+[ ] LICENSE-CONTENT.md
+[ ] CITATION.cff
+[ ] DATA_PROVENANCE.md
+[ ] EASTER_EGGS.md
+[ ] THIRD_PARTY_NOTICES.md
+[ ] .gitignore
+[ ] requirements-build.txt
+[ ] build_windows.bat
+[ ] run_linux.sh
+[ ] voynich_guided_demo.py
+
+FOLDERS:
+[ ] assets/click.wav
+[ ] assets/voynich_lute_tempus_perfectum.wav
+[ ] data/demo_data.json
+
+BEFORE PUBLICATION:
+[ ] Replace YOUR-USERNAME in CITATION.cff with actual GitHub username/repository URL.
+[ ] Confirm no raw IVTFF corpus is committed.
+[ ] Confirm no build/, dist/, __pycache__, *.spec, secrets, or personal paths are committed.
+[ ] Create tag v1.0.0.
+[ ] Draft GitHub Release titled: This Is Not The Xealeus Engine — v1.0.0
+[ ] Paste RELEASE_NOTES_v1.0.0.md into release description.
+[ ] Upload This_Is_Not_The_Xealeus_Engine.exe to the release Assets area.
+[ ] Save draft / verify files, then Publish release when ready.
+
+OPTIONAL AFTER PUBLIC RELEASE:
+[ ] Connect repository to Zenodo.
+[ ] Archive v1.0.0 and obtain DOI.
+[ ] Add DOI to CITATION.cff in a follow-up metadata commit/release.
